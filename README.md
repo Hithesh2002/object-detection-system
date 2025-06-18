@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### Run the Project
 ```
-python src/code.html
+code.html
 ```
 
 ## 📚 Learnings
